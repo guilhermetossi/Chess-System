@@ -12,6 +12,6 @@ Peças: Pawn (Peão), Rook (Torre), Knight (Cavalo), Bishop (Bispo), Queen (Rain
 - **Source** é a origem, ou seja, a peça no qual o jogador irá jogar.
 - **Target** é o destino, ou seja, o local no qual o jogador irá mover a peça.
 - O jogo possui sistema de **Check** e **CheckMate**
-- 
+
 ## Class diagram
 ![](https://raw.githubusercontent.com/roanrobersson/assets/master/java-console_chess/class-diagram.png)
